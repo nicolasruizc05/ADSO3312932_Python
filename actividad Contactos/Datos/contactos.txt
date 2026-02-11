@@ -1,0 +1,4 @@
+ID, Nombre, Apellido, Genero, Correo
+1061737607, steveen, ruiz, msculino, str.1999@gmail.com
+1061812151, nicolas, ruiz, masculino, nicolasruizc05@gmail.com
+12346, ASDF, QWER, MAASCULINO, nicolasruizc.12@gmail.com
